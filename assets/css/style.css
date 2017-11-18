@@ -44,15 +44,15 @@ p:last-child {
 
 /*header*/
 
-#masterhead {
+#masthead {
+      width: 960px;
       background: #fff;
       margin: 0 0 30px;
       z-index: 99;
       color: #fff;
-      overflow: auto;
+      /*overflow: auto;*/
       border-bottom: 2px solid #ccc;
-      position: fixed;
-      width: 100%;
+      /*position: fixed;*/
 }
 
 #logo {
